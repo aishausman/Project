@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MVC_WorkModelStoreContainer" CdmEntityContainer="MVC_WorkEntities">
+    <EntitySetMapping Name="MyProduct">
+      <EntityTypeMapping TypeName="MVC_WorkModel.MyProduct">
+        <MappingFragment StoreEntitySet="MyProduct">
+          <ScalarProperty Name="prod_id" ColumnName="prod_id" />
+          <ScalarProperty Name="prod_name" ColumnName="prod_name" />
+          <ScalarProperty Name="prod_image" ColumnName="prod_image" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

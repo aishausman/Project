@@ -1,0 +1,66 @@
+c:\users\aisha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\bin\WebApplication10.dll.config
+c:\users\aisha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\bin\WebApplication10.dll
+c:\users\aisha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\bin\WebApplication10.pdb
+c:\users\aisha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\bin\EntityFramework.dll
+c:\users\aisha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\bin\EntityFramework.SqlServer.dll
+c:\users\aisha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\bin\System.Web.Helpers.dll
+c:\users\aisha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\bin\System.Web.Mvc.dll
+c:\users\aisha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\bin\System.Web.Razor.dll
+c:\users\aisha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\bin\System.Web.Webpages.Deployment.dll
+c:\users\aisha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\bin\System.Web.Webpages.dll
+c:\users\aisha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\bin\System.Web.Webpages.Razor.dll
+c:\users\aisha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\bin\EntityFramework.xml
+c:\users\aisha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\bin\EntityFramework.SqlServer.xml
+c:\users\aisha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\bin\System.Web.Razor.xml
+c:\users\aisha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\bin\System.Web.Webpages.xml
+c:\users\aisha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\bin\System.Web.Webpages.Deployment.xml
+c:\users\aisha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\bin\System.Web.Webpages.Razor.xml
+c:\users\aisha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\bin\System.Web.Helpers.xml
+c:\users\aisha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\bin\System.Web.Mvc.xml
+c:\users\aisha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\obj\Debug\WebApplication10.dll
+c:\users\aisha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\obj\Debug\WebApplication10.pdb
+c:\users\aisha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\obj\Debug\WebApplication10.csprojResolveAssemblyReference.cache
+\\server1\Faculty Data\Miss Mehwish\ADSE - II\Imageworkinmvc\WebApplication10\bin\WebApplication10.dll.config
+\\server1\Faculty Data\Miss Mehwish\ADSE - II\Imageworkinmvc\WebApplication10\bin\WebApplication10.dll
+\\server1\Faculty Data\Miss Mehwish\ADSE - II\Imageworkinmvc\WebApplication10\bin\WebApplication10.pdb
+\\server1\Faculty Data\Miss Mehwish\ADSE - II\Imageworkinmvc\WebApplication10\bin\EntityFramework.dll
+\\server1\Faculty Data\Miss Mehwish\ADSE - II\Imageworkinmvc\WebApplication10\bin\EntityFramework.SqlServer.dll
+\\server1\Faculty Data\Miss Mehwish\ADSE - II\Imageworkinmvc\WebApplication10\bin\System.Web.Helpers.dll
+\\server1\Faculty Data\Miss Mehwish\ADSE - II\Imageworkinmvc\WebApplication10\bin\System.Web.Mvc.dll
+\\server1\Faculty Data\Miss Mehwish\ADSE - II\Imageworkinmvc\WebApplication10\bin\System.Web.Razor.dll
+\\server1\Faculty Data\Miss Mehwish\ADSE - II\Imageworkinmvc\WebApplication10\bin\System.Web.Webpages.Deployment.dll
+\\server1\Faculty Data\Miss Mehwish\ADSE - II\Imageworkinmvc\WebApplication10\bin\System.Web.Webpages.dll
+\\server1\Faculty Data\Miss Mehwish\ADSE - II\Imageworkinmvc\WebApplication10\bin\System.Web.Webpages.Razor.dll
+\\server1\Faculty Data\Miss Mehwish\ADSE - II\Imageworkinmvc\WebApplication10\bin\EntityFramework.xml
+\\server1\Faculty Data\Miss Mehwish\ADSE - II\Imageworkinmvc\WebApplication10\bin\EntityFramework.SqlServer.xml
+\\server1\Faculty Data\Miss Mehwish\ADSE - II\Imageworkinmvc\WebApplication10\bin\System.Web.Razor.xml
+\\server1\Faculty Data\Miss Mehwish\ADSE - II\Imageworkinmvc\WebApplication10\bin\System.Web.Webpages.xml
+\\server1\Faculty Data\Miss Mehwish\ADSE - II\Imageworkinmvc\WebApplication10\bin\System.Web.Webpages.Deployment.xml
+\\server1\Faculty Data\Miss Mehwish\ADSE - II\Imageworkinmvc\WebApplication10\bin\System.Web.Webpages.Razor.xml
+\\server1\Faculty Data\Miss Mehwish\ADSE - II\Imageworkinmvc\WebApplication10\bin\System.Web.Helpers.xml
+\\server1\Faculty Data\Miss Mehwish\ADSE - II\Imageworkinmvc\WebApplication10\bin\System.Web.Mvc.xml
+\\server1\Faculty Data\Miss Mehwish\ADSE - II\Imageworkinmvc\WebApplication10\obj\Debug\WebApplication10.csprojResolveAssemblyReference.cache
+\\server1\Faculty Data\Miss Mehwish\ADSE - II\Imageworkinmvc\WebApplication10\obj\Debug\WebApplication10.dll
+\\server1\Faculty Data\Miss Mehwish\ADSE - II\Imageworkinmvc\WebApplication10\obj\Debug\WebApplication10.pdb
+C:\Users\aisha\Desktop\Imageworkinmvc\WebApplication10\bin\WebApplication10.dll.config
+C:\Users\aisha\Desktop\Imageworkinmvc\WebApplication10\bin\WebApplication10.dll
+C:\Users\aisha\Desktop\Imageworkinmvc\WebApplication10\bin\WebApplication10.pdb
+C:\Users\aisha\Desktop\Imageworkinmvc\WebApplication10\bin\EntityFramework.dll
+C:\Users\aisha\Desktop\Imageworkinmvc\WebApplication10\bin\EntityFramework.SqlServer.dll
+C:\Users\aisha\Desktop\Imageworkinmvc\WebApplication10\bin\System.Web.Helpers.dll
+C:\Users\aisha\Desktop\Imageworkinmvc\WebApplication10\bin\System.Web.Mvc.dll
+C:\Users\aisha\Desktop\Imageworkinmvc\WebApplication10\bin\System.Web.Razor.dll
+C:\Users\aisha\Desktop\Imageworkinmvc\WebApplication10\bin\System.Web.Webpages.Deployment.dll
+C:\Users\aisha\Desktop\Imageworkinmvc\WebApplication10\bin\System.Web.Webpages.dll
+C:\Users\aisha\Desktop\Imageworkinmvc\WebApplication10\bin\System.Web.Webpages.Razor.dll
+C:\Users\aisha\Desktop\Imageworkinmvc\WebApplication10\bin\EntityFramework.xml
+C:\Users\aisha\Desktop\Imageworkinmvc\WebApplication10\bin\EntityFramework.SqlServer.xml
+C:\Users\aisha\Desktop\Imageworkinmvc\WebApplication10\bin\System.Web.Razor.xml
+C:\Users\aisha\Desktop\Imageworkinmvc\WebApplication10\bin\System.Web.Webpages.xml
+C:\Users\aisha\Desktop\Imageworkinmvc\WebApplication10\bin\System.Web.Webpages.Deployment.xml
+C:\Users\aisha\Desktop\Imageworkinmvc\WebApplication10\bin\System.Web.Webpages.Razor.xml
+C:\Users\aisha\Desktop\Imageworkinmvc\WebApplication10\bin\System.Web.Helpers.xml
+C:\Users\aisha\Desktop\Imageworkinmvc\WebApplication10\bin\System.Web.Mvc.xml
+C:\Users\aisha\Desktop\Imageworkinmvc\WebApplication10\obj\Debug\WebApplication10.csprojResolveAssemblyReference.cache
+C:\Users\aisha\Desktop\Imageworkinmvc\WebApplication10\obj\Debug\WebApplication10.dll
+C:\Users\aisha\Desktop\Imageworkinmvc\WebApplication10\obj\Debug\WebApplication10.pdb
